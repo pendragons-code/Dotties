@@ -1,0 +1,5 @@
+For the Window manager theme I used Border-only:
+https://www.pling.com/p/1016214/
+
+For the DE theme I used tokyonight:
+https://www.pling.com/p/1681315/
