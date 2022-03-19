@@ -61,3 +61,12 @@ Wallpaper
 
 
 It should also be noted more things may change along the way.
+
+
+# Credits:
+
+Neofetch Themes
+Configuration made by Chick
+
+See this wiki page for more info: 
+https://github.com/dylanaraps/neofetch/wiki/Customizing-Info
