@@ -27,20 +27,18 @@ I am currently limiting the number of dotties to only 2 of them as I am unable t
 
 
 # Results and Pictues (TokyoNightDark):
-![TokyoNightDark](https://instagram.fsin3-1.fna.fbcdn.net/v/t51.2885-15/275856524_666985584611744_6425326478393576394_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08&_nc_ht=instagram.fsin3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Qb49PC9WK84AX-pci9Q&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=Mjc5Mjc0NTE3NTA2NjQyMDU3MQ%3D%3D.2-ccb7-4&oh=00_AT9-6eXuFAMNnzGNO3GQfvQFuzKDJuih1C4ugCgwnA5KAA&oe=623CEE8D&_nc_sid=83d603)  
+![TokyoNightDark](https://imgur.com/a/aM2nSEt)  
 
 
-![TokyoNightDark2](https://instagram.fsin3-1.fna.fbcdn.net/v/t51.2885-15/275589451_1081674262409770_6115713267366921628_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fsin3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0ccFDHN7D6AAX_Jfd8C&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=Mjc5Mjc0NTE3NDc3Mjg1NDk0MQ%3D%3D.2-ccb7-4&oh=00_AT-eEGeS5oEqV0juvpzun0doGuMS1bAjLObTYonsEOImZw&oe=623D098C&_nc_sid=83d603)
-
-
+More pics soon!
 
 
 
 # Results and Pictures (TokyoNightPurple):
-![TokyoNightPurple](https://instagram.fsin3-1.fna.fbcdn.net/v/t51.2885-15/273269211_4930151350408522_7226118699789279372_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fsin3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=AjgXaPhk0swAX9pkHyr&tn=byLz1EKEAd2-Fj3V&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=Mjc2ODI4NDY2NTUwMzgxNDc3NA%3D%3D.2-ccb7-4&oh=00_AT8uslWyYlBwmgvxafzKySor8Bj6y28Wbc42_EZPJYIGdw&oe=623D95D0&_nc_sid=83d603)  
+![TokyoNightPurple](https://imgur.com/gallery/6ed14f2)  
 
 
-![TokyoNightPurple2](https://instagram.fsin3-1.fna.fbcdn.net/v/t51.2885-15/273350406_469434591427118_801262231843191435_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fsin3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=XKEjtQe90dEAX-hZLC7&edm=AABBvjUBAAAA&ccb=7-4&ig_cache_key=Mjc2ODI4NDY2NTg1NjMwMjQ4OA%3D%3D.2-ccb7-4&oh=00_AT-t6uJNwgtBIxtFPLsV3ZptBYzidjLnIyM1YWnGgZRcBw&oe=623C50F8&_nc_sid=83d603)
+More pics soon!
 
 
 
