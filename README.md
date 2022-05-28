@@ -27,7 +27,7 @@ I am currently limiting the number of dotties to only 2 of them as I am unable t
 
 
 # Results and Pictues (TokyoNightDark):
-![TokyoNightDark](https://imgur.com/a/aM2nSEt)  
+![TokyoNightDark](https://i.imgur.com/JHWQyH8.jpeg)  
 
 
 More pics soon!
@@ -35,7 +35,7 @@ More pics soon!
 
 
 # Results and Pictures (TokyoNightPurple):
-![TokyoNightPurple](https://imgur.com/gallery/6ed14f2)  
+![TokyoNightPurple](https://i.imgur.com/ScBLyNa.jpeg)  
 
 
 More pics soon!
