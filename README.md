@@ -1,6 +1,6 @@
 # Dotties:
 Dot files to my linux rice!
-
+Yes this now includes the stuff to my nvim config.
 
 
 
