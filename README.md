@@ -3,8 +3,10 @@ Dot files to my linux rice!
 Yes this now includes the stuff to my nvim config.
 
 
-
-
+# nvim
+The config I have utilizes [vim-plug](https://github.com/junegunn/vim-plug)   
+open nvim and install the plugs
+exit nvim and enter to the plugged directory and run 'yarn install --frozen-lockfile'
 
 # What this?:
 This repository holds the dotfiles I used in order to make some of the rice I featured on my [instagram](https://instagram.com/pendragonscode).
