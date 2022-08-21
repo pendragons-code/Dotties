@@ -1,0 +1,6 @@
+C-n: NERDTree
+C-f: NERDTreeFocus
+C-g: NERDTreeToggle
+C-t: tabnew
+C-x: terminal
+C-s: settings
