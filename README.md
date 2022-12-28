@@ -69,4 +69,5 @@ Neofetch Themes
 Configuration made by Chick
 
 See this wiki page for more info: 
-https://github.com/dylanaraps/neofetch/wiki/Customizing-Info
+https://github.com/dylanaraps/neofetch/wiki/Customizing-Info                  
+[This guy, Bulgantamir, is my hero] (https://stackoverflow.com/questions/44473097/nerdtree-command-automatically-change-directory-and-root-directory)
