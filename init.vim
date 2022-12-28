@@ -29,7 +29,7 @@ nmap <c-s><c-s> <plug>(esearch)
 map  <c-s>      <plug>(operator-esearch-prefill)
 
 let g:esearch = {}
-
+let g:NERDTreeChDirMode = 2
 " Use regex matching with the smart case mode by default and avoid matching text-objects.
 let g:esearch.regex   = 1
 let g:esearch.textobj = 0
